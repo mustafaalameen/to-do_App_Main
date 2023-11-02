@@ -48,6 +48,7 @@ button {
   color: var(--very-dark-grayish-blue1);
   font-size: 13px;
   font-weight: 700;
+  cursor: pointer;
 }
 
 button:hover {
@@ -138,7 +139,7 @@ ul{
 
 @media screen and (min-width: 700px) {
   header {
-    height: 40vh;
+    /* height: 40vh; */
   }
 
   .header-body {
